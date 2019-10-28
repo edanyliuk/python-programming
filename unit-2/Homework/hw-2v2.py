@@ -5,6 +5,7 @@
 hours_worked = 30
 worker_type = "full_time"
 
+weekly_wage = 0
 
 if hours_worked <= 40 and worker_type == "full_time":
     weekly_wage = 50 * hours_worked

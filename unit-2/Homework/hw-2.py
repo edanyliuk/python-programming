@@ -21,5 +21,4 @@ elif hours_worked > 20 and worker_type == "part_time":
 if worker_type == "contract":
     print (120 * hours_worked * .75)
 
-
   

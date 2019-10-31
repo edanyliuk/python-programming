@@ -1,4 +1,4 @@
-
+'''
 print("emma")
 print("emma")
 print("emma")
@@ -41,7 +41,15 @@ for letter_name in full_name:
     if letter_name == "a" or letter_name == "e" or letter_name == "i" or letter_name == "o" or letter_name == "u":
         print(letter_name)
          
+'''
+my_numbers = [3, 5, 17, 11, 21, 53, -10, -27, 45, 80]
+original = my_numbers[0]
 
+for lowest in my_numbers:
+    if lowest < original:
+        original = lowest
+
+print (original)
 
 
 

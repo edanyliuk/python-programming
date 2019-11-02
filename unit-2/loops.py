@@ -15,7 +15,7 @@ name = "Emma"
 for count in range(1, 11):
     print(name)
 
-#print the odd numbers between 1 and 10t
+#print the odd numbers between 1 and 10
 for num in range(1, 11):
     if num % 2 == 1:
         print(num)

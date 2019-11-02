@@ -85,7 +85,7 @@ for i in range(0, 11):
 
 '''
 
-#using indexes to acces list items
+#using indexes to assess list items
 #use index if we need to edit items in list
 
 #set all negative readings to 0

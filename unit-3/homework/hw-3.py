@@ -15,3 +15,4 @@ def pivot_split(integer_list, pivot):
 
 print(pivot_split([1, 2, 3, 15, 1, 7], 3))
 
+#could also do return[smaller_list, bigger_list] instead of my method

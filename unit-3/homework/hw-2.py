@@ -10,4 +10,4 @@ def encode_string(string):
     
     return new_list
 
-print(encode_string("emma"))
+print(encode_string("emma")

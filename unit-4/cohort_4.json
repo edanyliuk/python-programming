@@ -1,0 +1,39 @@
+{
+    "class": "Cohort 4",
+    "start": "2019-10-16",
+    "end": "2019-12-18",
+    "students": [
+        {
+            "Name": "Daniela",
+            "Job": "Finance"
+        },
+        {
+            "Name": "Emma",
+            "Job": "Trader"
+        },
+        {
+            "Name": "Kyle",
+            "Job": "Car Thief"
+        },
+        {
+            "Name": "Julian",
+            "Job": "Coder"
+        },
+        {
+            "Name": "Catherine",
+            "Job": "Doctor"
+        },
+        {
+            "Name": "Francis",
+            "Job": "FX Trader"
+        },
+        {
+            "Name": "Princeton",
+            "Job": "Teacher"
+        },
+        {
+            "Name": "Jason",
+            "Job": "Singer"
+        }
+    ]
+}

@@ -13,6 +13,20 @@ def frequency_counter(string):
 
 print(frequency_counter("colette"))
 
+#princeton's solution
+
+def frequency_counterp(stringp):
+    result = {}
+    for character in stringp:
+        if character in result:
+            result[character] += 1
+        else:
+            result[character] = 1
+    
+    return result
+
+print(frequency_counterp("emma"))
+
 def list_to_dict(string_list):
     dict_list = {}
     for new in string_list:
